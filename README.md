@@ -1,5 +1,5 @@
 # 12---Arrays
-
+**//Marks**
 		#include <iostream>
 		using namespace std;
 		int main(){
@@ -19,7 +19,7 @@
 			cout << "Average is: " << result / 5;
 			return 0;
 		}
-
+**//Month Array**
 		#include <iostream>
 		using namespace std;
 		int main(){
